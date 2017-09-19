@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/ic_home_24dp"
+        id="@+id/bbHome"
+        title="Home"/>
+    <tab
+        icon="@drawable/ic_dashboard_24dp"
+        id="@+id/bbCategory"
+        title="Category"/>
+    <tab
+        icon="@drawable/ic_person_24dp"
+        id="@+id/bbProfile"
+        title="Buy List"/>
+
+</tabs>
